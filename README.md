@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RedactedITGuy
+- 👀 I’m interested in ... IT Security
+- 🌱 I’m currently learning ... Web Pentesting
+- 💞️ I’m looking to collaborate on ... anything really 
+- 📫 How to reach me ... Email me at mb@redactedITGuy.com
